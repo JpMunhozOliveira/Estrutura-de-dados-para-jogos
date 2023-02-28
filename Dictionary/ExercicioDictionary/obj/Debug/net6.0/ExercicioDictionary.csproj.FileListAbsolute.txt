@@ -1,0 +1,15 @@
+C:\Users\jaoop\Desktop\Estrutura\ExercicioDictionary\ExercicioDictionary\bin\Debug\net6.0\ExercicioDictionary.exe
+C:\Users\jaoop\Desktop\Estrutura\ExercicioDictionary\ExercicioDictionary\bin\Debug\net6.0\ExercicioDictionary.deps.json
+C:\Users\jaoop\Desktop\Estrutura\ExercicioDictionary\ExercicioDictionary\bin\Debug\net6.0\ExercicioDictionary.runtimeconfig.json
+C:\Users\jaoop\Desktop\Estrutura\ExercicioDictionary\ExercicioDictionary\bin\Debug\net6.0\ExercicioDictionary.dll
+C:\Users\jaoop\Desktop\Estrutura\ExercicioDictionary\ExercicioDictionary\bin\Debug\net6.0\ExercicioDictionary.pdb
+C:\Users\jaoop\Desktop\Estrutura\ExercicioDictionary\ExercicioDictionary\obj\Debug\net6.0\ExercicioDictionary.csproj.AssemblyReference.cache
+C:\Users\jaoop\Desktop\Estrutura\ExercicioDictionary\ExercicioDictionary\obj\Debug\net6.0\ExercicioDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaoop\Desktop\Estrutura\ExercicioDictionary\ExercicioDictionary\obj\Debug\net6.0\ExercicioDictionary.AssemblyInfoInputs.cache
+C:\Users\jaoop\Desktop\Estrutura\ExercicioDictionary\ExercicioDictionary\obj\Debug\net6.0\ExercicioDictionary.AssemblyInfo.cs
+C:\Users\jaoop\Desktop\Estrutura\ExercicioDictionary\ExercicioDictionary\obj\Debug\net6.0\ExercicioDictionary.csproj.CoreCompileInputs.cache
+C:\Users\jaoop\Desktop\Estrutura\ExercicioDictionary\ExercicioDictionary\obj\Debug\net6.0\ExercicioDictionary.dll
+C:\Users\jaoop\Desktop\Estrutura\ExercicioDictionary\ExercicioDictionary\obj\Debug\net6.0\refint\ExercicioDictionary.dll
+C:\Users\jaoop\Desktop\Estrutura\ExercicioDictionary\ExercicioDictionary\obj\Debug\net6.0\ExercicioDictionary.pdb
+C:\Users\jaoop\Desktop\Estrutura\ExercicioDictionary\ExercicioDictionary\obj\Debug\net6.0\ExercicioDictionary.genruntimeconfig.cache
+C:\Users\jaoop\Desktop\Estrutura\ExercicioDictionary\ExercicioDictionary\obj\Debug\net6.0\ref\ExercicioDictionary.dll

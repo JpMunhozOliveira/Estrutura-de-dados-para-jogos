@@ -1,0 +1,15 @@
+C:\Users\jaoop\Desktop\Estrutura\Atividades_listas_filas\Atividades_listas_filas\bin\Debug\net6.0\Atividades_listas_filas.exe
+C:\Users\jaoop\Desktop\Estrutura\Atividades_listas_filas\Atividades_listas_filas\bin\Debug\net6.0\Atividades_listas_filas.deps.json
+C:\Users\jaoop\Desktop\Estrutura\Atividades_listas_filas\Atividades_listas_filas\bin\Debug\net6.0\Atividades_listas_filas.runtimeconfig.json
+C:\Users\jaoop\Desktop\Estrutura\Atividades_listas_filas\Atividades_listas_filas\bin\Debug\net6.0\Atividades_listas_filas.dll
+C:\Users\jaoop\Desktop\Estrutura\Atividades_listas_filas\Atividades_listas_filas\bin\Debug\net6.0\Atividades_listas_filas.pdb
+C:\Users\jaoop\Desktop\Estrutura\Atividades_listas_filas\Atividades_listas_filas\obj\Debug\net6.0\Atividades_listas_filas.csproj.AssemblyReference.cache
+C:\Users\jaoop\Desktop\Estrutura\Atividades_listas_filas\Atividades_listas_filas\obj\Debug\net6.0\Atividades_listas_filas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaoop\Desktop\Estrutura\Atividades_listas_filas\Atividades_listas_filas\obj\Debug\net6.0\Atividades_listas_filas.AssemblyInfoInputs.cache
+C:\Users\jaoop\Desktop\Estrutura\Atividades_listas_filas\Atividades_listas_filas\obj\Debug\net6.0\Atividades_listas_filas.AssemblyInfo.cs
+C:\Users\jaoop\Desktop\Estrutura\Atividades_listas_filas\Atividades_listas_filas\obj\Debug\net6.0\Atividades_listas_filas.csproj.CoreCompileInputs.cache
+C:\Users\jaoop\Desktop\Estrutura\Atividades_listas_filas\Atividades_listas_filas\obj\Debug\net6.0\Atividades_listas_filas.dll
+C:\Users\jaoop\Desktop\Estrutura\Atividades_listas_filas\Atividades_listas_filas\obj\Debug\net6.0\refint\Atividades_listas_filas.dll
+C:\Users\jaoop\Desktop\Estrutura\Atividades_listas_filas\Atividades_listas_filas\obj\Debug\net6.0\Atividades_listas_filas.pdb
+C:\Users\jaoop\Desktop\Estrutura\Atividades_listas_filas\Atividades_listas_filas\obj\Debug\net6.0\Atividades_listas_filas.genruntimeconfig.cache
+C:\Users\jaoop\Desktop\Estrutura\Atividades_listas_filas\Atividades_listas_filas\obj\Debug\net6.0\ref\Atividades_listas_filas.dll

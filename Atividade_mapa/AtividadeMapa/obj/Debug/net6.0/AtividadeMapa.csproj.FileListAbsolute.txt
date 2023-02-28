@@ -1,0 +1,15 @@
+C:\Users\jaoop\Desktop\Estrutura\AtividadeMapa\AtividadeMapa\obj\Debug\net6.0\AtividadeMapa.csproj.AssemblyReference.cache
+C:\Users\jaoop\Desktop\Estrutura\AtividadeMapa\AtividadeMapa\obj\Debug\net6.0\AtividadeMapa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaoop\Desktop\Estrutura\AtividadeMapa\AtividadeMapa\obj\Debug\net6.0\AtividadeMapa.AssemblyInfoInputs.cache
+C:\Users\jaoop\Desktop\Estrutura\AtividadeMapa\AtividadeMapa\obj\Debug\net6.0\AtividadeMapa.AssemblyInfo.cs
+C:\Users\jaoop\Desktop\Estrutura\AtividadeMapa\AtividadeMapa\obj\Debug\net6.0\AtividadeMapa.csproj.CoreCompileInputs.cache
+C:\Users\jaoop\Desktop\Estrutura\AtividadeMapa\AtividadeMapa\bin\Debug\net6.0\AtividadeMapa.exe
+C:\Users\jaoop\Desktop\Estrutura\AtividadeMapa\AtividadeMapa\bin\Debug\net6.0\AtividadeMapa.deps.json
+C:\Users\jaoop\Desktop\Estrutura\AtividadeMapa\AtividadeMapa\bin\Debug\net6.0\AtividadeMapa.runtimeconfig.json
+C:\Users\jaoop\Desktop\Estrutura\AtividadeMapa\AtividadeMapa\bin\Debug\net6.0\AtividadeMapa.dll
+C:\Users\jaoop\Desktop\Estrutura\AtividadeMapa\AtividadeMapa\bin\Debug\net6.0\AtividadeMapa.pdb
+C:\Users\jaoop\Desktop\Estrutura\AtividadeMapa\AtividadeMapa\obj\Debug\net6.0\AtividadeMapa.dll
+C:\Users\jaoop\Desktop\Estrutura\AtividadeMapa\AtividadeMapa\obj\Debug\net6.0\refint\AtividadeMapa.dll
+C:\Users\jaoop\Desktop\Estrutura\AtividadeMapa\AtividadeMapa\obj\Debug\net6.0\AtividadeMapa.pdb
+C:\Users\jaoop\Desktop\Estrutura\AtividadeMapa\AtividadeMapa\obj\Debug\net6.0\AtividadeMapa.genruntimeconfig.cache
+C:\Users\jaoop\Desktop\Estrutura\AtividadeMapa\AtividadeMapa\obj\Debug\net6.0\ref\AtividadeMapa.dll

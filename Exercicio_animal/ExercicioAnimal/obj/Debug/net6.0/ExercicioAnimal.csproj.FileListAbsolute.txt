@@ -1,0 +1,15 @@
+C:\Users\jaoop\Desktop\Estrutura\ExercicioAnimal\ExercicioAnimal\bin\Debug\net6.0\ExercicioAnimal.exe
+C:\Users\jaoop\Desktop\Estrutura\ExercicioAnimal\ExercicioAnimal\bin\Debug\net6.0\ExercicioAnimal.deps.json
+C:\Users\jaoop\Desktop\Estrutura\ExercicioAnimal\ExercicioAnimal\bin\Debug\net6.0\ExercicioAnimal.runtimeconfig.json
+C:\Users\jaoop\Desktop\Estrutura\ExercicioAnimal\ExercicioAnimal\bin\Debug\net6.0\ExercicioAnimal.dll
+C:\Users\jaoop\Desktop\Estrutura\ExercicioAnimal\ExercicioAnimal\bin\Debug\net6.0\ExercicioAnimal.pdb
+C:\Users\jaoop\Desktop\Estrutura\ExercicioAnimal\ExercicioAnimal\obj\Debug\net6.0\ExercicioAnimal.csproj.AssemblyReference.cache
+C:\Users\jaoop\Desktop\Estrutura\ExercicioAnimal\ExercicioAnimal\obj\Debug\net6.0\ExercicioAnimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaoop\Desktop\Estrutura\ExercicioAnimal\ExercicioAnimal\obj\Debug\net6.0\ExercicioAnimal.AssemblyInfoInputs.cache
+C:\Users\jaoop\Desktop\Estrutura\ExercicioAnimal\ExercicioAnimal\obj\Debug\net6.0\ExercicioAnimal.AssemblyInfo.cs
+C:\Users\jaoop\Desktop\Estrutura\ExercicioAnimal\ExercicioAnimal\obj\Debug\net6.0\ExercicioAnimal.csproj.CoreCompileInputs.cache
+C:\Users\jaoop\Desktop\Estrutura\ExercicioAnimal\ExercicioAnimal\obj\Debug\net6.0\ExercicioAnimal.dll
+C:\Users\jaoop\Desktop\Estrutura\ExercicioAnimal\ExercicioAnimal\obj\Debug\net6.0\refint\ExercicioAnimal.dll
+C:\Users\jaoop\Desktop\Estrutura\ExercicioAnimal\ExercicioAnimal\obj\Debug\net6.0\ExercicioAnimal.pdb
+C:\Users\jaoop\Desktop\Estrutura\ExercicioAnimal\ExercicioAnimal\obj\Debug\net6.0\ExercicioAnimal.genruntimeconfig.cache
+C:\Users\jaoop\Desktop\Estrutura\ExercicioAnimal\ExercicioAnimal\obj\Debug\net6.0\ref\ExercicioAnimal.dll

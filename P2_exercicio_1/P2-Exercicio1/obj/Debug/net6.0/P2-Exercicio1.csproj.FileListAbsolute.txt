@@ -1,0 +1,15 @@
+C:\Users\jaoop\Desktop\Estrutura\P2-Exercicio1\P2-Exercicio1\obj\Debug\net6.0\P2-Exercicio1.csproj.AssemblyReference.cache
+C:\Users\jaoop\Desktop\Estrutura\P2-Exercicio1\P2-Exercicio1\obj\Debug\net6.0\P2-Exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaoop\Desktop\Estrutura\P2-Exercicio1\P2-Exercicio1\obj\Debug\net6.0\P2-Exercicio1.AssemblyInfoInputs.cache
+C:\Users\jaoop\Desktop\Estrutura\P2-Exercicio1\P2-Exercicio1\obj\Debug\net6.0\P2-Exercicio1.AssemblyInfo.cs
+C:\Users\jaoop\Desktop\Estrutura\P2-Exercicio1\P2-Exercicio1\obj\Debug\net6.0\P2-Exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\jaoop\Desktop\Estrutura\P2-Exercicio1\P2-Exercicio1\bin\Debug\net6.0\P2-Exercicio1.exe
+C:\Users\jaoop\Desktop\Estrutura\P2-Exercicio1\P2-Exercicio1\bin\Debug\net6.0\P2-Exercicio1.deps.json
+C:\Users\jaoop\Desktop\Estrutura\P2-Exercicio1\P2-Exercicio1\bin\Debug\net6.0\P2-Exercicio1.runtimeconfig.json
+C:\Users\jaoop\Desktop\Estrutura\P2-Exercicio1\P2-Exercicio1\bin\Debug\net6.0\P2-Exercicio1.dll
+C:\Users\jaoop\Desktop\Estrutura\P2-Exercicio1\P2-Exercicio1\bin\Debug\net6.0\P2-Exercicio1.pdb
+C:\Users\jaoop\Desktop\Estrutura\P2-Exercicio1\P2-Exercicio1\obj\Debug\net6.0\P2-Exercicio1.dll
+C:\Users\jaoop\Desktop\Estrutura\P2-Exercicio1\P2-Exercicio1\obj\Debug\net6.0\refint\P2-Exercicio1.dll
+C:\Users\jaoop\Desktop\Estrutura\P2-Exercicio1\P2-Exercicio1\obj\Debug\net6.0\P2-Exercicio1.pdb
+C:\Users\jaoop\Desktop\Estrutura\P2-Exercicio1\P2-Exercicio1\obj\Debug\net6.0\P2-Exercicio1.genruntimeconfig.cache
+C:\Users\jaoop\Desktop\Estrutura\P2-Exercicio1\P2-Exercicio1\obj\Debug\net6.0\ref\P2-Exercicio1.dll

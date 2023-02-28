@@ -1,0 +1,15 @@
+C:\Users\jaoop\Desktop\Estrutura\TesteAvlTree\TesteAvlTree\bin\Debug\net6.0\TesteAvlTree.exe
+C:\Users\jaoop\Desktop\Estrutura\TesteAvlTree\TesteAvlTree\bin\Debug\net6.0\TesteAvlTree.deps.json
+C:\Users\jaoop\Desktop\Estrutura\TesteAvlTree\TesteAvlTree\bin\Debug\net6.0\TesteAvlTree.runtimeconfig.json
+C:\Users\jaoop\Desktop\Estrutura\TesteAvlTree\TesteAvlTree\bin\Debug\net6.0\TesteAvlTree.dll
+C:\Users\jaoop\Desktop\Estrutura\TesteAvlTree\TesteAvlTree\bin\Debug\net6.0\TesteAvlTree.pdb
+C:\Users\jaoop\Desktop\Estrutura\TesteAvlTree\TesteAvlTree\obj\Debug\net6.0\TesteAvlTree.csproj.AssemblyReference.cache
+C:\Users\jaoop\Desktop\Estrutura\TesteAvlTree\TesteAvlTree\obj\Debug\net6.0\TesteAvlTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaoop\Desktop\Estrutura\TesteAvlTree\TesteAvlTree\obj\Debug\net6.0\TesteAvlTree.AssemblyInfoInputs.cache
+C:\Users\jaoop\Desktop\Estrutura\TesteAvlTree\TesteAvlTree\obj\Debug\net6.0\TesteAvlTree.AssemblyInfo.cs
+C:\Users\jaoop\Desktop\Estrutura\TesteAvlTree\TesteAvlTree\obj\Debug\net6.0\TesteAvlTree.csproj.CoreCompileInputs.cache
+C:\Users\jaoop\Desktop\Estrutura\TesteAvlTree\TesteAvlTree\obj\Debug\net6.0\TesteAvlTree.dll
+C:\Users\jaoop\Desktop\Estrutura\TesteAvlTree\TesteAvlTree\obj\Debug\net6.0\refint\TesteAvlTree.dll
+C:\Users\jaoop\Desktop\Estrutura\TesteAvlTree\TesteAvlTree\obj\Debug\net6.0\TesteAvlTree.pdb
+C:\Users\jaoop\Desktop\Estrutura\TesteAvlTree\TesteAvlTree\obj\Debug\net6.0\TesteAvlTree.genruntimeconfig.cache
+C:\Users\jaoop\Desktop\Estrutura\TesteAvlTree\TesteAvlTree\obj\Debug\net6.0\ref\TesteAvlTree.dll

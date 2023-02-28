@@ -1,0 +1,15 @@
+C:\Users\jaoop\Desktop\Estrutura\Atividade_fila_de_pilhas\Atividade_fila_de_pilhas\bin\Debug\net6.0\Atividade_fila_de_pilhas.exe
+C:\Users\jaoop\Desktop\Estrutura\Atividade_fila_de_pilhas\Atividade_fila_de_pilhas\bin\Debug\net6.0\Atividade_fila_de_pilhas.deps.json
+C:\Users\jaoop\Desktop\Estrutura\Atividade_fila_de_pilhas\Atividade_fila_de_pilhas\bin\Debug\net6.0\Atividade_fila_de_pilhas.runtimeconfig.json
+C:\Users\jaoop\Desktop\Estrutura\Atividade_fila_de_pilhas\Atividade_fila_de_pilhas\bin\Debug\net6.0\Atividade_fila_de_pilhas.dll
+C:\Users\jaoop\Desktop\Estrutura\Atividade_fila_de_pilhas\Atividade_fila_de_pilhas\bin\Debug\net6.0\Atividade_fila_de_pilhas.pdb
+C:\Users\jaoop\Desktop\Estrutura\Atividade_fila_de_pilhas\Atividade_fila_de_pilhas\obj\Debug\net6.0\Atividade_fila_de_pilhas.csproj.AssemblyReference.cache
+C:\Users\jaoop\Desktop\Estrutura\Atividade_fila_de_pilhas\Atividade_fila_de_pilhas\obj\Debug\net6.0\Atividade_fila_de_pilhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaoop\Desktop\Estrutura\Atividade_fila_de_pilhas\Atividade_fila_de_pilhas\obj\Debug\net6.0\Atividade_fila_de_pilhas.AssemblyInfoInputs.cache
+C:\Users\jaoop\Desktop\Estrutura\Atividade_fila_de_pilhas\Atividade_fila_de_pilhas\obj\Debug\net6.0\Atividade_fila_de_pilhas.AssemblyInfo.cs
+C:\Users\jaoop\Desktop\Estrutura\Atividade_fila_de_pilhas\Atividade_fila_de_pilhas\obj\Debug\net6.0\Atividade_fila_de_pilhas.csproj.CoreCompileInputs.cache
+C:\Users\jaoop\Desktop\Estrutura\Atividade_fila_de_pilhas\Atividade_fila_de_pilhas\obj\Debug\net6.0\Atividade_fila_de_pilhas.dll
+C:\Users\jaoop\Desktop\Estrutura\Atividade_fila_de_pilhas\Atividade_fila_de_pilhas\obj\Debug\net6.0\refint\Atividade_fila_de_pilhas.dll
+C:\Users\jaoop\Desktop\Estrutura\Atividade_fila_de_pilhas\Atividade_fila_de_pilhas\obj\Debug\net6.0\Atividade_fila_de_pilhas.pdb
+C:\Users\jaoop\Desktop\Estrutura\Atividade_fila_de_pilhas\Atividade_fila_de_pilhas\obj\Debug\net6.0\Atividade_fila_de_pilhas.genruntimeconfig.cache
+C:\Users\jaoop\Desktop\Estrutura\Atividade_fila_de_pilhas\Atividade_fila_de_pilhas\obj\Debug\net6.0\ref\Atividade_fila_de_pilhas.dll

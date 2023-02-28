@@ -1,0 +1,15 @@
+C:\Users\jaoop\Desktop\Estrutura\AtividadePessoa\AtividadePessoa\bin\Debug\net6.0\AtividadePessoa.exe
+C:\Users\jaoop\Desktop\Estrutura\AtividadePessoa\AtividadePessoa\bin\Debug\net6.0\AtividadePessoa.deps.json
+C:\Users\jaoop\Desktop\Estrutura\AtividadePessoa\AtividadePessoa\bin\Debug\net6.0\AtividadePessoa.runtimeconfig.json
+C:\Users\jaoop\Desktop\Estrutura\AtividadePessoa\AtividadePessoa\bin\Debug\net6.0\AtividadePessoa.dll
+C:\Users\jaoop\Desktop\Estrutura\AtividadePessoa\AtividadePessoa\bin\Debug\net6.0\AtividadePessoa.pdb
+C:\Users\jaoop\Desktop\Estrutura\AtividadePessoa\AtividadePessoa\obj\Debug\net6.0\AtividadePessoa.csproj.AssemblyReference.cache
+C:\Users\jaoop\Desktop\Estrutura\AtividadePessoa\AtividadePessoa\obj\Debug\net6.0\AtividadePessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaoop\Desktop\Estrutura\AtividadePessoa\AtividadePessoa\obj\Debug\net6.0\AtividadePessoa.AssemblyInfoInputs.cache
+C:\Users\jaoop\Desktop\Estrutura\AtividadePessoa\AtividadePessoa\obj\Debug\net6.0\AtividadePessoa.AssemblyInfo.cs
+C:\Users\jaoop\Desktop\Estrutura\AtividadePessoa\AtividadePessoa\obj\Debug\net6.0\AtividadePessoa.csproj.CoreCompileInputs.cache
+C:\Users\jaoop\Desktop\Estrutura\AtividadePessoa\AtividadePessoa\obj\Debug\net6.0\AtividadePessoa.dll
+C:\Users\jaoop\Desktop\Estrutura\AtividadePessoa\AtividadePessoa\obj\Debug\net6.0\refint\AtividadePessoa.dll
+C:\Users\jaoop\Desktop\Estrutura\AtividadePessoa\AtividadePessoa\obj\Debug\net6.0\AtividadePessoa.pdb
+C:\Users\jaoop\Desktop\Estrutura\AtividadePessoa\AtividadePessoa\obj\Debug\net6.0\AtividadePessoa.genruntimeconfig.cache
+C:\Users\jaoop\Desktop\Estrutura\AtividadePessoa\AtividadePessoa\obj\Debug\net6.0\ref\AtividadePessoa.dll
